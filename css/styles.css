@@ -1,0 +1,105 @@
+html{
+    height:100%; 
+  }
+
+body {
+    color: #555;
+    font-family: Verdana, sans-serif;
+    margin: 0;
+}
+
+header {
+    text-align: right;
+    padding: 10px;
+    background-image: url(../img/elly181027001_TP_V.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin-bottom: 60px;
+}
+
+h1 {
+    display: block;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: -2px;
+    position: relative;
+    top: -8px;
+    left: -60px;
+    font-size: 36px;
+}
+
+h2 {
+    display: block;
+    color: #696969;
+    line-height: 1;
+    letter-spacing: -2px;
+    position: relative;
+    top: -8px;
+    font-size: 36px;
+    display: inline-block;
+    border-bottom: 4px solid #ee82ee;
+}
+
+section {
+    text-align: center;
+}
+
+section p {
+    margin-top: 5px;
+    font-size: 22px;
+}
+
+.icon {
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 0 0 5px gray;
+}
+
+.plofile {
+    width: 600px;
+    margin: 60px auto;
+    margin-top: 100px;
+}
+
+.works {
+    width: 600px;
+    margin: 60px auto;
+    margin-top: 100px;
+}
+
+.works > section {
+    margin-bottom: 50px;
+}
+
+.works p {
+    text-align: left;
+}
+
+.details {
+    font-style:italic;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: left;
+    border-bottom: 2px solid #696969;
+}
+
+.contact {
+    width: 400px;
+    margin: 60px auto;
+    border-bottom: 1px solid gray;
+    margin-top: 100px;
+}
+
+footer {
+    background-color:#fff0f5;
+    margin-top: 100px;
+    text-align: center;
+}
+
+footer  p {
+    font-style:italic;
+    color: gray;
+    font-size: 20ßpx;
+    margin-top: 45px;
+}
